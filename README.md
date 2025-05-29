@@ -16,7 +16,6 @@
 ### 🌼 About Me
 
 - 👩‍🎓 **B.Tech Student & Passionate Developer**
-- 🚀 Currently building a game-changing **Ed-Tech Startup**
 - 💬 Love talking about **React, Node.js, REST APIs, and UI/UX**
 - 🤝 Looking to collaborate on **MERN stack & innovative projects**
 - 📫 Reach me at: **singhvatsala2004@gmail.com**
