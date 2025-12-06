@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
-
 <h1 align="center">✨ Hi, I'm Vatsala Singh ✨</h1>
 <h3 align="center">💻 Full Stack Developer | MERN Enthusiast | Creative Coder</h3>
 
