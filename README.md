@@ -13,6 +13,10 @@
 
 I am a dedicated **Full Stack Developer** with a strong focus on building visually appealing, efficient, and scalable digital products.  
 My core development philosophy is a blend of **clean engineering practices**, **aesthetic UI**, and **meaningful user experience**.
+I am a passionate student with expertise in problem-solving and algorithmic thinking. I love to explore various technologies and
+frameworks to develop efficient and scalable solutions. With a strong foundation in data structures and algorithms. Quick learner with
+a growth mindset, eager to contribute technical expertise to dynamic development environments. I am constantly expanding my skills
+and staying up-to-date with the latest advancements in the field of software development. 
 
 - 🎓 B.Tech in Computer Science  
 - 💡 Core Expertise: **React, Node.js, Express, MongoDB**  
