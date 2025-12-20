@@ -10,6 +10,8 @@
 ---
 
 ## 🎨 About Me
+🔗 Live Portfolio:
+👉 🌐 Visit My Portfolio
 
 I am a dedicated **Full Stack Developer** with a strong focus on building visually appealing, efficient, and scalable digital products.  
 My core development philosophy is a blend of **clean engineering practices**, **aesthetic UI**, and **meaningful user experience**.
@@ -21,7 +23,8 @@ and staying up-to-date with the latest advancements in the field of software dev
 - 🎓 B.Tech in Computer Science  
 - 💡 Core Expertise: **React, Node.js, Express, MongoDB**  
 - 🧠 Interests: UI engineering, reusable component systems, performance optimization  
-- 📬 Email: **singhvatsala2004@gmail.com**  
+- 📬 Email: **singhvatsala2004@gmail.com**
+- 
 - 🚀 Mission: Designing systems that are functional, elegant, and impactful  
 
 ---
