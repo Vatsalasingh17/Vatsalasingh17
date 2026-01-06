@@ -1,154 +1,256 @@
 <div align="center">
 
-# 🌟 Vatsala Singh
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Vatsala%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20UI%20Engineer&descAlignY=55&descSize=18"/>
 
-### Full Stack Developer • MERN Stack • UI Engineer
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Building+Beautiful+%26+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;UI%2FUX+Engineer+%F0%9F%8E%A8;Component+Architecture+Expert;Clean+Code+Advocate+%E2%9C%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<!-- Animated Snake -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6EC7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioo-redg.onrender.com)
-[![Email](https://img.shields.io/badge/Gmail-singhvatsala2004-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhvatsala2004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Vatsala__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vatsala_2004/)
-[![GitHub](https://img.shields.io/badge/GitHub-Vatsalasingh17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsalasingh17)
+---
+
+### 🌈 Quick Links
+
+<a href="https://portfolioo-redg.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6EC7?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio"/>
+</a>
+<a href="mailto:singhvatsala2004@gmail.com">
+  <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/Vatsala_2004/" target="_blank">
+  <img src="https://img.shields.io/badge/💡_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode"/>
+</a>
+<a href="https://github.com/Vatsalasingh17" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Vatsalasingh17&label=PROFILE+VIEWS&color=FF6EC7&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🎨 About Me
+<!-- Animated About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
+## 💫 About Me
+
+```javascript
 const vatsala = {
-    role: "Full Stack Developer",
-    education: "B.Tech in Computer Science",
-    expertise: ["React", "Node.js", "Express", "MongoDB"],
-    interests: ["UI Engineering", "Component Architecture", "Performance Optimization"],
+    role: "Full Stack Developer 🚀",
+    education: "B.Tech in Computer Science 🎓",
+    location: "India 🇮🇳",
+    
+    coreStack: {
+        frontend: ["React", "JavaScript", "TailwindCSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git", "Postman", "Redux"]
+    },
+    
+    interests: [
+        "UI/UX Engineering 🎨",
+        "Component Architecture 🏗️",
+        "Performance Optimization ⚡",
+        "Clean Code Practices ✨"
+    ],
+    
+    currentlyLearning: ["System Design", "Advanced React Patterns"],
     philosophy: "Dream boldly. Design beautifully. Build intelligently.",
-    currentFocus: "Building scalable & aesthetic digital products",
-    email: "singhvatsala2004@gmail.com"
+    funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
-I am a dedicated **Full Stack Developer** passionate about crafting visually stunning, efficient, and scalable digital experiences. My development approach combines **clean engineering practices**, **aesthetic UI design**, and **meaningful user experience**.
+### 🎯 What Drives Me
 
-With a strong foundation in **data structures and algorithms**, I excel at problem-solving and algorithmic thinking. I'm a quick learner with a growth mindset, constantly exploring new technologies and frameworks to deliver efficient, scalable solutions.
+- 🔭 Building **scalable & aesthetic** digital products
+- 🌱 Constantly **learning** new technologies & best practices
+- 👯 Looking to **collaborate** on innovative projects
+- 💡 Passionate about **problem-solving** & algorithmic thinking
+- ⚡ Quick learner with a **growth mindset**
 
-> 🎯 **Mission:** Designing systems that are functional, elegant, and impactful
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend Development
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Frontend Magic
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,redux&theme=dark" alt="Frontend Skills"/>
+
+### ⚙️ Backend Power
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Skills"/>
+
+### 🗄️ Database Mastery
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database Skills"/>
+
+### 📦 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" alt="Languages"/>
+
+### 🔧 Tools & Tech
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsalasingh17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsalasingh17&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=6EC1FF&currStreakLabel=6EC1FF" width="48%" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vatsalasingh17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsalasingh17&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=6EC1FF&currStreakLabel=6EC1FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalasingh17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vatsalasingh17&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&layout=compact" alt="Coding Stats"/>
 
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalasingh17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" width="48%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsalasingh17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6EC7&line=6EC1FF&point=FFFFFF" width="48%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsalasingh17&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF6EC7&line=6EC1FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
+<!-- Profile Details -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsalasingh17&theme=radical" width="96%" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsalasingh17&theme=tokyonight" width="95%" alt="Profile Summary"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vatsalasingh17&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Vatsalasingh17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=-C,-?" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🎯 Competitive Programming
+
+<div align="center">
+
+<!-- LeetCode Stats -->
+<img src="https://leetcard.jacoblin.cool/Vatsala_2004?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+
 </div>
 
 ---
 
 ## 💼 What I Bring to the Table
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Core Strengths
-- ✅ Full Stack MERN Development
-- ✅ Responsive UI/UX Design
-- ✅ RESTful API Development
-- ✅ Database Design & Optimization
-- ✅ Component Architecture
-- ✅ Performance Optimization
-- ✅ Clean Code Practices
-
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- 🔄 Advanced React Patterns
-- 🔄 System Design
-- 🔄 Cloud Technologies
-- 🔄 DevOps Practices
-- 🔄 Microservices Architecture
-- 🔄 Testing Best Practices
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Professional Philosophy
-
 <div align="center">
 
-> ### *"Dream boldly. Design beautifully. Build intelligently."*
-> 
-> **A principle I follow in every project** 🎨💻✨
+| 🎯 **Core Strengths** | 🌱 **Currently Exploring** |
+|:---:|:---:|
+| ✅ Full Stack MERN Development | 🔄 Advanced React Patterns |
+| ✅ Responsive UI/UX Design | 🔄 System Design & Architecture |
+| ✅ RESTful API Development | 🔄 Cloud Technologies (AWS) |
+| ✅ Database Design & Optimization | 🔄 DevOps & CI/CD |
+| ✅ Component Architecture | 🔄 Microservices |
+| ✅ Performance Optimization | 🔄 Testing (Jest, Cypress) |
+| ✅ Clean Code Practices | 🔄 Web3 & Blockchain |
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 💡 Philosophy & Values
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects or discuss technology!
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Gmail](https://img.shields.io/badge/Email-singhvatsala2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhvatsala2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF6EC7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioo-redg.onrender.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vatsala_2004/)
+### *"Dream boldly. Design beautifully. Build intelligently."*
+
+**A principle I follow in every project** 🎨💻✨
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Vatsalasingh17?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsalasingh17&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF" width="48%"/>
+</a>
+
+*Replace `YOUR_REPO_NAME` with your actual repository names*
+
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Vatsalasingh17&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&icon_color=6EC1FF&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=FF6EC7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+*Connect your Spotify to show what you're listening to!*
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vatsalasingh17/Vatsalasingh17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vatsalasingh17/Vatsalasingh17/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vatsalasingh17/Vatsalasingh17/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire"/>
+
+### **I'm always excited to work on innovative projects!**
+
+<a href="mailto:singhvatsala2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
+</a>
+<a href="https://portfolioo-redg.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
+</a>
+<a href="https://leetcode.com/u/Vatsala_2004/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode"/>
+</a>
+<a href="https://github.com/Vatsalasingh17" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire"/>
 
 </div>
 
@@ -156,10 +258,10 @@ I'm always excited to collaborate on interesting projects or discuss technology!
 
 <div align="center">
 
-### ⭐ From [Vatsalasingh17](https://github.com/Vatsalasingh17)
+### ⭐ **Thanks for visiting!** ⭐
 
-**Thanks for visiting! Feel free to star ⭐ some repositories if you find them interesting!**
+**Feel free to star ⭐ repositories you find interesting!**
 
-<img src="https://komarev.com/ghpvc/?username=Vatsalasingh17&label=Profile%20Views&color=FF6EC7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
 
 </div>
