@@ -201,19 +201,6 @@ const vatsala = {
 
 </div>
 
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=FF6EC7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-*Connect your Spotify to show what you're listening to!*
-
-</div>
-
----
 
 ## 🐍 Watch My Contributions Get Eaten!
 
