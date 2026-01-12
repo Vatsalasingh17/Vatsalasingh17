@@ -41,7 +41,7 @@ const vatsala = {
     location: "India 🇮🇳",
     
     coreStack: {
-        frontend: ["React", "JavaScript", "TailwindCSS"],
+        frontend: ["HTML","React","JavaScript","TailwindCSS"],
         backend: ["Node.js", "Express"],
         database: ["MongoDB", "MySQL"],
         tools: ["Git", "Postman", "Redux"]
